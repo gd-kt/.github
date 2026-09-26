@@ -13,4 +13,4 @@ It provides:
 
 Docs: https://gd-kt.github.io/docs/
 
-Project: https://github.com/gd-kt/gd.kt
+gd.kt: https://github.com/gd-kt/gd.kt
