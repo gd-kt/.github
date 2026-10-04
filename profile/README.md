@@ -9,6 +9,10 @@ It provides:
 - An editor API
 - A client API *(EXPERIMENTAL)*
 
+More gd.kt related libraries are coming:
+- Trigg (spwn like kotlin dsl)
+- [Still unnamed] (used to connect more parts of gd with the lib)
+
 ---
 
 Docs: https://gd-kt.github.io/docs/
