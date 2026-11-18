@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/gd-kt/docs/raw/main/docs/public/alt_logo.png" height=50% width=50% alt="gd.kt logo">
+    <img src="https://github.com/gd-kt/docs/raw/main/docs/public/logos/gddotkt/logo_title.png" height=50% width=50% alt="gd.kt logo">
 </div>
 
 # gd.kt
@@ -9,12 +9,11 @@ It provides:
 - An editor API
 - A client API *(EXPERIMENTAL)*
 
-More gd.kt related libraries are coming:
-- Trigg (spwn like kotlin dsl)
-- [Still unnamed] (used to connect more parts of gd with the lib)
+There's also an additional library that can be used with gd.kt: [trigg](https://github.com/gd-kt/trigg). It's a kotlin DSL to make trigger stuff
 
 ---
 
 Docs: https://gd-kt.github.io/docs/
 
 gd.kt: https://github.com/gd-kt/gd.kt
+trigg: https://github.com/gd-kt/trigg
