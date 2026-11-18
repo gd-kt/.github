@@ -15,5 +15,5 @@ There's also an additional library that can be used with gd.kt: [trigg](https://
 
 Docs: https://gd-kt.github.io/docs/
 
-gd.kt: https://github.com/gd-kt/gd.kt
+gd.kt: https://github.com/gd-kt/gd.kt<br>
 trigg: https://github.com/gd-kt/trigg
